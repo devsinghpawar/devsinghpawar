@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devsinghpawar
+- 👋 Hi, I’m Dev Singh Pawar
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me pawarsinghdev@gmail.com
