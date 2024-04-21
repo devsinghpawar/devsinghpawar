@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Singh Pawar
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me pawarsinghdev@gmail.com
 
 <!---
